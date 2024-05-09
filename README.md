@@ -10,4 +10,6 @@ Hello there! 👋 I'm jarenas1, a software development student passionate about 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-![Wave GIF](https://media.giphy.com/media/3ohhwNqFMnb7j0pBzq/giphy.gif)
+<div align="center">
+  <img src="https://media0.giphy.com/media/67pPxFVSWx6Gdi3z5B/giphy.gif?cid=6c09b952hepirtfld7yls1lkb9liqqtal4302tiv6kze2cvm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Wave GIF">
+</div>
