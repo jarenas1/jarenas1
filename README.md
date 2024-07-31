@@ -35,4 +35,4 @@ I'm a passionate software development student who loves to explore new technolog
 
 Thanks for stopping by! Feel free to reach out if you'd like to collaborate on any projects or just chat about tech.
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=your-github-username)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jarenas1)
