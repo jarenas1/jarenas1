@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Juan José Arenas
 
-![Banner]([https://your-banner-image-url.com/banner.png](https://github.com/jarenas1/jarenas1.github.io/blob/main/public/img/logo.png?raw=true))
+![Banner](https://raw.githubusercontent.com/jarenas1/jarenas1.github.io/main/public/img/logo.png)
 
 ## 🚀 About Me
 
 I'm a passionate software development student who loves to explore new technologies and continuously improve my skills. I thrive on challenges and am dedicated to finding innovative solutions to complex problems. Every day is an opportunity to learn and grow, and I'm excited to share my journey with you!
 
-![Coding GIF]([https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif))
+![Coding GIF](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 ## 🛠 Technologies & Tools
 
