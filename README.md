@@ -37,7 +37,7 @@ I'm a passionate software development student who loves to explore new technolog
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/juan-josé-arenas-gaviria-144b79249">
+  <a href="https://www.linkedin.com/in/juan-josé-arenas-gaviria-144b79249">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/juan______a07">
