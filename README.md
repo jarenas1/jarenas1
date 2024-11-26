@@ -46,7 +46,7 @@ I'm a passionate software development student who loves to explore new technolog
   <a href="https://www.instagram.com/juan______a07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://jarenas1.github.io">
+  <a href="https://jarenas1.online/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
   </a>
 </p>
